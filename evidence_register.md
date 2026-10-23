@@ -8,12 +8,55 @@ Every figure must be traceable to its original source. Unverified values must no
 
 ## Evidence Log
 
-| ID | Source | Indicator | Data period | Population / coverage | Evidence type | Verification status |
-|---|---|---|---|---|---|---|
-| E001 | Kenya National Progress Report 2024 | HCV screening positivity | 2020–2023, where reported | National reported screening data | Routine surveillance | Source and figures to verify |
-| E002 | WHO Hepatitis Epidemiology Dashboard | Annual HCV incidence estimates | 2015–2024, where available | Kenya | Modelled or country-reported, depending on indicator | Annual values to retrieve |
-| E003 | Kenyan HCV cohort study | HCV antibody and RNA positivity | Study-specific period | Selected study populations | Peer-reviewed research | Verify study methods and dates |
-| E004 | Additional Kenyan research | HCV RNA positivity and incidence | To be determined | Study-specific populations | Peer-reviewed research | To identify and assess |
+E001 — Kenya National Progress Report 2024
+
+Period: 2020, 2022 and 2023
+
+Finding: HCV screening positivity was reported as 2.6%, 1.5% and 1.7%, respectively.
+
+Interpretation: These figures describe screening positivity, not national incidence of new active infections.
+
+Source: https://analytics.nsdcc.go.ke/estimates/PROGRESS-REPORT-2024.pdf
+
+E002 — Akiyama et al. (2019)
+
+Period: Participants recruited from 2015 to 2017
+
+Finding: 230 of 284 antibody-positive participants who underwent RNA testing had detectable HCV RNA.
+
+Interpretation: This demonstrates active infection among participants in the studied population, not the national trend.
+
+Source: https://pubmed.ncbi.nlm.nih.gov/31540840/
+
+E003 — Kenyan HCV Transmission-Network Study (2024)
+
+Finding: The study investigated HCV transmission networks among people who inject drugs in Kenya.
+
+Interpretation: Findings apply to the study population and should not be generalized to the whole country without supporting evidence.
+
+Source: https://pubmed.ncbi.nlm.nih.gov/39182826/
+
+E004 — WHO Global Hepatitis Report 2026
+
+Period: Report covers 2015–2024.
+
+Status: Kenya-specific annual HCV incidence values still need to be extracted and verified.
+
+Source: https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/hepatitis/reports/global-hepatitis-report-2026
+
+E001 — National report: Kenya National Progress Report 2024 (PDF)
+
+
+
+E002 — Cohort study: Akiyama et al. (2019), PubMed
+
+
+
+E003 — Transmission-network study: Widespread HCV transmission network among people who inject drugs in Kenya (2024)
+
+
+
+E004 — WHO report: Global Hepatitis Report 2026
 
 ## Data Extraction Fields
 
