@@ -58,6 +58,11 @@ E003 — Transmission-network study: Widespread HCV transmission network among p
 
 E004 — WHO report: Global Hepatitis Report 2026
 
+WHO indicator documentation — Hepatitis (chronic HBV and HCV) incidence
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hepatitis---new-infections
+Status: Definition and interpretation limitations verified; Kenya-specific annual values still to be extracted.
+
+
 ## Data Extraction Fields
 
 For each source, record:
