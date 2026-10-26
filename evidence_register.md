@@ -10,6 +10,8 @@ Every figure must be traceable to its original source. Unverified values must no
 
 E001 — Kenya National Progress Report 2024
 
+Figures extracted for preliminary analysis; original table and indicator definitions require verification.
+
 Period: 2020, 2022 and 2023
 
 Finding: HCV screening positivity was reported as 2.6%, 1.5% and 1.7%, respectively.
