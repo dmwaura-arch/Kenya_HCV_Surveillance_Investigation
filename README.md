@@ -1,6 +1,5 @@
 # Kenya_HCV_Surveillance_Investigation
 Investigating public evidence on HCV screening, active infection and transmission trends in Kenya.
-# Kenya HCV Surveillance Investigation
 
 ## Investigating Evidence of New and Active Hepatitis C Virus Infections in Kenya
 
@@ -39,7 +38,7 @@ Figures will be recorded with their publication year, data period, population, i
 
 ## 5. Methodology
 
-The investigation will follow these steps:
+The investigation follows a structured evidence-review and analysis process:
 
 1. Identify and retrieve relevant public datasets, reports and research publications.
 2. Extract annual HCV indicators and document their definitions.
@@ -58,14 +57,23 @@ The investigation will follow these steps:
 
 These indicators are related but are not interchangeable.
 
-## 7. Preliminary Evidence
+## 7. Preliminary Findings
 
-Initial review of Kenya's published screening data identified a rise in reported HCV antibody screening positivity from 1.5% in 2022 to 1.7% in 2023, following a reported rate of 2.6% in 2020.
+Preliminary analysis of reported HCV screening data extracted from Kenya's National Progress Report 2024 identified the following antibody screening positivity rates:
 
-Published Kenyan research has also documented RNA-confirmed HCV infections in selected study populations.
+| Year | Tests conducted | Positive results | Screening positivity |
+|---|---:|---:|---:|
+| 2020 | 63,353 | 1,674 | 2.64% |
+| 2022 | 88,398 | 1,333 | 1.51% |
+| 2023 | 103,465 | 1,792 | 1.73% |
 
-These preliminary findings establish a reason to investigate further, but they do not establish a recent nationwide increase in new active HCV infections. Figures and source definitions will be verified during the evidence review.
+Screening positivity declined between 2020 and 2023, although a modest increase occurred between 2022 and 2023.
 
+Published Kenyan research has also documented HCV RNA-confirmed infections in selected study populations. However, these findings cannot automatically be generalised to the national population.
+
+**Interpretation:** The available preliminary screening data do not establish whether new active HCV infections are increasing nationally. Screening positivity, the number of positive screening results, current viraemic infection and incidence represent different epidemiological measures.
+
+**Data quality note:** The extracted figures and original indicator definitions require verification against the source report before the results can be considered final.
 ## 8. Limitations
 
 - Publicly available data may not cover every county, population or year.
@@ -85,10 +93,11 @@ These preliminary findings establish a reason to investigate further, but they d
 
 ## 10. Project Status
 
-**Current stage:** Investigation design and public evidence collection.
+**Current stage:** Preliminary analysis, evidence documentation and report development.
 
-The investigation will remain open to uncertainty. Conclusions will reflect the strength and limitations of the available evidence rather than assume that an increase has occurred.
+Completed activities include public screening-data compilation, preliminary trend analysis, visualisation, evidence registration, preparation of a written report and development of a public-facing educational carousel.
 
+Further verification of source figures, indicator definitions and the availability of comparable national HCV incidence data remains necessary before drawing definitive conclusions.
 ## 11. Guiding Principle
 
 > A pattern is a starting point, not a conclusion.
